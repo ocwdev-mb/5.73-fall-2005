@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ]
+  ],
+  "legacy_uid": "7cce634b-9b0f-c7a9-1810-860b903b0d91",
+  "instructors": {
+    "content": [
+      "5fcb6642-032b-0d11-1a77-36230dc96618"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b5276fba-9ebe-0d23-4be2-539ef9a6e3c7",
+    "website": "5-73-introductory-quantum-mechanics-i-fall-2005"
+  },
+  "course_title": "Introductory Quantum Mechanics I",
+  "course_description": "5.73 covers fundamental concepts of quantum mechanics: wave properties, uncertainty principles, Schr\u00f6dinger equation, and operator and matrix methods. Basic applications of the following are discussed: one-dimensional potentials (harmonic oscillator), three-dimensional centrosymmetric potentials (hydrogen atom), and angular momentum and spin. The course also examines approximation methods: variational principle and perturbation theory.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.73",
+  "course_image_thumbnail": {
+    "content": "8838efb1-91f3-0cf9-6507-63ff8a4b2690",
+    "website": "5-73-introductory-quantum-mechanics-i-fall-2005"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "1e110982-17be-417c-97f3-e6f99e113aff",
+  "site_short_id": "5.73-fall-2005",
+  "title": "Course Metadata"
+}
